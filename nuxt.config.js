@@ -146,21 +146,21 @@ export default {
         iso: 'en-US',
         file: 'en-US.js',
         name: 'English',
-        domain: 'https://nuxtjs.org'
+        domain: 'https://www.krypto9.tk'
       },
       {
         code: 'fr',
         iso: 'fr-FR',
         file: 'fr-FR.js',
         name: 'Français',
-        domain: 'https://fr.nuxtjs.org'
+        domain: 'https://fr.krypto9.tk'
       },
       {
         code: 'zh',
         iso: 'zh-ZH',
         file: 'zh-ZH.js',
         name: '简体中文',
-        domain: 'https://zh.nuxtjs.org'
+        domain: 'https://zh.krypto9.tk'
       },
 
       {
@@ -168,28 +168,28 @@ export default {
         iso: 'ja-JP',
         file: 'ja-JP.js',
         name: '日本語',
-        domain: 'https://ja.nuxtjs.org'
+        domain: 'https://ja.krypto9.tk'
       },
       {
         code: 'ko',
         iso: 'ko-KO',
         file: 'ko-KO.js',
         name: '한국어',
-        domain: 'https://ko.nuxtjs.org'
+        domain: 'https://ko.krypto9.tk'
       },
       {
         code: 'ru',
         iso: 'ru-RU',
         file: 'ru-RU.js',
         name: 'Русский',
-        domain: 'https://ru.nuxtjs.org'
+        domain: 'https://ru.krypto9.tk'
       },
       {
         code: 'id',
         iso: 'id-ID',
         file: 'id-ID.js',
         name: 'Indonesian',
-        domain: 'https://id.nuxtjs.org'
+        domain: 'https://id.krypto9.tk'
       },
       //{
        // code: 'tr',
